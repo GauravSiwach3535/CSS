@@ -1,0 +1,13 @@
+.ul{
+    list-style: none;
+}
+.ol{
+    list-style-type: lower-latin;
+}
+.spain{
+    color:rgb(234, 31, 31);
+    font-size: larger;
+}
+table{
+    border: 2px solid blue;
+}
